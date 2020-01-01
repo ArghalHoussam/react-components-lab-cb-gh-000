@@ -45,7 +45,7 @@ export class InFrontOfYou extends Component {
 }
 
 let products = BUTCHER_PRODUCTS.map( product => <li> { product } </li>);
-
+console.log(products);
 export class ButcherShop extends Component {
   // your code here
   render() {
