@@ -74,4 +74,4 @@ export class App extends Component {
   }
 }
 
-ReactDOM.render(<App />, document.getElementById('global'))
+ReactDOM.render(<App />, document.getElementById('root'))
