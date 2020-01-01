@@ -55,7 +55,7 @@ export class ButcherShop extends Component {
         <ul>
           { products }
         </ul>
-      </div>  
+      </div>
     )
   }
 
