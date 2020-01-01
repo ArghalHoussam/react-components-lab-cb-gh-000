@@ -44,7 +44,7 @@ export class InFrontOfYou extends Component {
   }
 }
 
-let products = BUTCHER_PRODUCTS.map( product => "<li>" + product + "</li>");
+let products = BUTCHER_PRODUCTS.map( product => <li> product </li>);
 
 export class ButcherShop extends Component {
   // your code here
