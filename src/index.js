@@ -48,7 +48,7 @@ let products = BUTCHER_PRODUCTS.map( product => <li> { product } </li>);
 
 export class ButcherShop extends Component {
   // your code here
-  <div class="butcher-shop">
+  <div>
   <p>{"Hello! We have the following products for sale today:"}</p>
   <ul>
 
