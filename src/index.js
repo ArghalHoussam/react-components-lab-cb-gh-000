@@ -20,8 +20,8 @@ export class OlderCoaster extends Component {
   //
   render() {
     return (
-      <div class="OlderCoaster">
-        <p>Two grannies having the tile of their life!</p>
+      <div class="oldercoaster">
+        <p>Two grannies having the time of their life!</p>
         <p>Passengers:</p>
         <ul>
           <li>Agnes</li>
